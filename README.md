@@ -1,2 +1,2 @@
 # nunjucks-example
-A example of using Nunjucks
+An example of using Nunjucks
