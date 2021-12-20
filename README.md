@@ -1,7 +1,7 @@
-## nunjucks-example
+# nunjucks-example
 An example of using Nunjucks
 
-# How to use it
+## How to use it
 ```
 $ git clone https://github.com/iveteran/nunjucks-example.git  
 $ npm i  
